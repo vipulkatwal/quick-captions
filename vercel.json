@@ -1,7 +1,7 @@
-{
-  "functions": {
-    "api/upload/route.js": {
-      "maxDuration": 60
-    }
-  }
-}
+// {
+//   "functions": {
+//     "api/upload/route.js": {
+//       "maxDuration": 60
+//     }
+//   }
+// }
