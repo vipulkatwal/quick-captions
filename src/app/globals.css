@@ -1,0 +1,25 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* Custom styles for color input elements */
+input[type="color"] {
+	-webkit-appearance: none; /* Remove default styling in WebKit browsers */
+	-moz-appearance: none; /* Remove default styling in Mozilla browsers */
+	appearance: none; /* Remove default styling in all browsers */
+	background-color: transparent; /* Ensure background is transparent */
+}
+
+/* Custom styles for the color swatch in WebKit browsers */
+input[type="color"]::-webkit-color-swatch {
+	border-radius: 5px; /* Rounded corners for the color swatch */
+	border: 2px solid black; /* Add a solid black border */
+}
+
+/* Custom styles for the color swatch in Mozilla browsers */
+input[type="color"]::-moz-color-swatch {
+	border-radius: 5px; /* Rounded corners for the color swatch */
+	border: 2px solid black; /* Add a solid black border */
+}
