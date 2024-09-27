@@ -2,9 +2,11 @@
 
 Welcome to the project! This repository is designed to handle video transcription and processing using AWS services and FFmpeg.
 
+![Preview Image](image.png)
+
 ## 📋 Table of Contents
 
-- [Project Name](#project-name)
+- [Caption Generator](#caption-generator)
   - [📋 Table of Contents](#-table-of-contents)
   - [🛠️ Tech Stack](#️-tech-stack)
   - [📚 Documentation](#-documentation)
