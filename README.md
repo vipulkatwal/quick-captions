@@ -2,7 +2,6 @@
 
 Welcome to the project! This repository is designed to handle video transcription and processing using AWS services and FFmpeg.
 
-![Preview Image](image.png)
 
 ## 📋 Table of Contents
 
