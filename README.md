@@ -1,4 +1,4 @@
-# 🎬 Caption Generator: AI-Powered Video Captioning Tool
+# 🎬 Quick Captions: AI-Powered Video Captioning Tool
 
 ![Caption Generator Screenshot](./public/quick-captions.png)
 
@@ -8,7 +8,7 @@ Quick Captions is an innovative AI-powered tool that revolutionizes the way you 
 
 ## 📋 Table of Contents
 
-- [🎬 Caption Generator: AI-Powered Video Captioning Tool](#-caption-generator-ai-powered-video-captioning-tool)
+- [🎬 Quick Captions: AI-Powered Video Captioning Tool](#-caption-generator-ai-powered-video-captioning-tool)
   - [📝 About](#-about)
   - [📋 Table of Contents](#-table-of-contents)
   - [✨ Key Features](#-key-features)
@@ -123,7 +123,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Vipul Katwal - [www.vipulkatwal17@gmail.com](www.vipulkatwal17@gmail.com)
 
-Project Live Link: [Click Here](https://github.com/your-username/caption-generator)
+Project Live Link: [Click Here](https://quick-captions.vercel.app/)
 
 ---
 
