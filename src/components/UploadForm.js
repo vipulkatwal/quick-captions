@@ -49,7 +49,10 @@ export default function UploadForm() {
 			{/* File input label with styling */}
 			<label className="bg-green-600 py-2 px-4 sm:px-6 rounded-full inline-flex gap-2 border-2 border-purple-700/50 cursor-pointer">
 				<UploadIcon /> {/* Custom upload icon */}
-				<span className="text-sm sm:text-base">Choose file</span>
+				<span className="text-sm sm:text-base">
+					Choose file
+					<span className="text-xs opacity-75 block mt-0.5">(Upto 4mb)</span>
+				</span>
 				{/* Hidden file input field */}
 				<input onChange={upload} type="file" className="hidden" />
 			</label>
