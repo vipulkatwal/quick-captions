@@ -66,7 +66,7 @@ Quick Captions is an innovative AI-powered tool that revolutionizes the way you 
 
 1. Clone the repository
    ```
-   git clone https://github.com/vipulkatwal/quick-cpations.git
+   git clone https://github.com/vipulkatwal/quick-captions.git
    ```
 
 2. Navigate to the project directory
