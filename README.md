@@ -66,12 +66,12 @@ Quick Captions is an innovative AI-powered tool that revolutionizes the way you 
 
 1. Clone the repository
    ```
-   git clone https://github.com/vipulkatwal/caption-generator.git
+   git clone https://github.com/vipulkatwal/quick-cpations.git
    ```
 
 2. Navigate to the project directory
    ```
-   cd caption-generator
+   cd quick-captions
    ```
 
 3. Install dependencies
@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Vipul Katwal - [www.vipulkatwal17@gmail.com](www.vipulkatwal17@gmail.com)
+📧 Hit me up via email!:  [www.vipulkatwal17@gmail.com](www.vipulkatwal17@gmail.com)
 
 Project Live Link: [Click Here](https://quick-captions.vercel.app/)
 
